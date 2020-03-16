@@ -1,0 +1,2 @@
+# RNAsmc
+Provides function for RNA secondary structure plotting, comparison and module mining. Given a RNA secondary structure, you can obtain stem regions, hairpin loops, internal loops, bulge loops and multibranch loops of this RNA structure using this program. They are the basic modules of RNA secondary structure. For each module you get, you can use this program to label the RNA structure with a specific color. You can also use this program to compare two RNA secondary structures to get a score that represents similarity.
